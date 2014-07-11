@@ -7,6 +7,4 @@ the future
 
 ```sh
 pip install ipython[notebook]
-
-
 ```
